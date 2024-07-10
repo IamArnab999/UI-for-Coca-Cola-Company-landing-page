@@ -4,7 +4,7 @@ This project is a non-responsive yet non-functional landing page for the Coca-Co
 
 ### Features
 
-- Clean and visually appealing design resembling real estate project.
+- Clean and visually appealing design resembling the Coca-Cola Company landing page.
 - Easy to understand beginner friendly code.
 
 **Feel free to:**
