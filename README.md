@@ -1,11 +1,11 @@
 # Home | Coca-Cola
 
-This project is a non-responsive yet non-functional landing page for the Coca-Cola company, replicating the visual style of the same using HTML & CSS.
+This UI project is a non-responsive yet non-functional but aesthetically accurate landing page for the Coca-Cola company, created using HTML & CSS to replicate its visual style.
 
 ### Features
 
-- Clean and visually appealing design resembling the Coca-Cola Company landing page.
-- Easy to understand beginner friendly code.
+- Clean and visually appealing design that closely resembles the Coca-Cola Company landing page.
+- Beginner-friendly code that is easy to understand.
 
 **Feel free to:**
 
